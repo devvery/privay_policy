@@ -1,130 +1,84 @@
+App Privacy Policy Generator
+Generate a generic Privacy Policy and Terms & Conditions for your apps
+
+Built with heart by Nishant and contributors.
+
+TwitterDisclaimerGitHub stars
+
+    If you appreciate my work & want to support the project:
+    Consider sponsoring me on Github 👨🏻‍💻
+    Consider buying me a cup of ☕
+    Add a comment in the project's GuestBook 🤗
+
+All Done!
+
+Now sit back and choose the type of document you want to generate:
+
+
+
+The accuracy of the generated privacy policy and terms & conditions on this website is not legally binding. Use at your own risk.
+
+Read the full Disclaimer here
 Privacy Policy
 
+Mikhail Seliverstov built the Percentage calculator app as a Free app. This SERVICE is provided by Mikhail Seliverstov at no cost and is intended for use as is.
 
-Developer built the Percentage calculator app as an Ad Supported app. This
-app is provided by at no cost and is intended for use as is.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-This privacy policy is used to inform you regarding policies with the collection, use, and 
-disclosure of Personal Information if anyone decided to use this Service.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Percentage calculator unless otherwise defined in this Privacy Policy.
 
-1. Overview
+Information Collection and Use
 
-The app uses advertising (and in app payments) to make revenue. The app uses third party
-libraries for advertising which may collect and share personal information with third
-parties.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 
-Links to privacy policies of third party service providers used in the app
+The app does use third party services that may collect information used to identify you.
 
-Google Play Services    https://www.google.com/policies/privacy/
-AdMob                   https://support.google.com/admob/answer/6128543
+Link to privacy policy of third party service providers used by the app
 
+    Google Play Services
+    AdMob
 
-2.) Sharing Your Information
+Log Data
 
-The developer will share personal information with third parties only in the ways that are 
-described in this privacy statement.
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-Your personal information may be disclosed:
-* As required by law, such as to comply with a subpoena, or similar legal process.
-* To any other third party with your prior consent to do so.
+Cookies
 
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-3. What information are collected and why
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
-3.1 AdMob
+Service Providers
 
-AdMob, is Google's mobile app advertising platform designed specifically for app
-developers. In order to understand Google's use of Data, consult Google's partner policy.
+I may employ third-party companies and individuals due to the following reasons:
 
-Personal Data:
-* Online identifiers, including cookie identifiers
-* IP addresses
-* Device identifiers
-* Client identifiers 
-* unique device identifiers for advertising (Google Advertiser ID or IDFA, for example)
-* Usage Data.
+    To facilitate our Service;
+    To provide the Service on our behalf;
+    To perform Service-related services; or
+    To assist us in analyzing how our Service is used.
 
-Retention:
-Google anonymizes the log data by removing part of the IP address (after 9 months) and 
-cookie information (after 18 months)
+I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-Online resources:
-* Privacy Policy                https://www.google.com/policies/technologies/ads/
-* Opt out                       https://www.google.com/settings/ads
-* Service Information           https://privacy.google.com/businesses/adsservices/
-* Partner policy                https://policies.google.com/technologies/partner-sites
-* Ad technology providers       https://support.google.com/admob/answer/9012903
+Security
 
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
-3.2 Google Play Services
+Links to Other Sites
 
-Google Play Services offers APIs and security services to the Android developer ecosystem.
-Google acts as a data controller for any personal data processed in Google Play Services,
-and offers user notices and consents about the use of personal data in the service’s user
-interface in Android.
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-Collected informations:
-* Device information
-* Log information
-* Location information
-* Unique application numbers
-* Local storage
-* Cookies and similar technologies
+Children’s Privacy
 
-Google use the collected information to provide, maintain, protect and improve Google's
-services, to develop new ones, and to protect Google and the users. Google also use this
-information to offer you tailored content – like giving you more relevant search results
-and ads.
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
 
-Online resources:
-* Google Terms of Service      https://policies.google.com/terms
-* Google Privacy Policy        https://policies.google.com/privacy
+Changes to This Privacy Policy
 
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-4. Security
+This policy is effective as of 2021-09-13
 
-I am striving to use commercially acceptable means of protecting your Personal
-Information. But remember that no method of transmission over the internet, or method of 
-electronic storage is 100% secure and reliable, and I cannot guarantee its absolute
-security.
+Contact Us
 
-
-5. Links to Other Sites
-
-This Service may contain links to other sites. If you click on a third-party link, you 
-will be directed to that site. Note that these external sites are not operated by me.
-Therefore, I strongly advise you to review the Privacy Policy of these websites. I have 
-no control over and assume no responsibility for the content, privacy policies, or 
-practices of any third-party sites or services.
-
-
-6. Children’s Privacy
-
-These Services do not address anyone under the age of 16. I do not knowingly collect 
-personally identifiable information from children under 16. In the case I discover that 
-a child under 16 has provided me with personal information, I immediately delete those 
-informations. If you are a parent or guardian and you are aware that your child has
-provided personal information, please contact me so that I will be able to do necessary
-actions.
-
-
-7. Distribution
-
-The only official channel for distribution of this app are:
-* Google Play Store                https://play.google.com/
-
-Any other mode of distribution is not official and thus, is not maintained by the developer.
-This privacy policy is effective to distribution made on official channel only.
-
-
-8. Changes to This Privacy Policy
-
-This policy may be updated from time to time.
-
-
-Contact me
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to
-contact me:
-developer(dot)mikhail(dot)seliverstov(at)gmail(dot)com
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at developer.mikhail.seliverstov@gmail.com.
